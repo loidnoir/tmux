@@ -1,0 +1,9 @@
+# TPM-managed plugins (reinstalled via prefix + I)
+plugins/
+
+# Local backups of the old framework config
+*.back
+
+# Editor swap/recovery files
+*.sw[a-p]
+*~
