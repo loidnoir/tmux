@@ -7,3 +7,6 @@ plugins/
 # Editor swap/recovery files
 *.sw[a-p]
 *~
+
+# Personal project shortcuts (machine-specific paths)
+config.json
